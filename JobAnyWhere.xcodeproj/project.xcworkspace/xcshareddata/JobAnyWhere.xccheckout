@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63CAA76D-B5C5-4582-A69F-DA72C6E37FF4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JobAnyWhere</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>090E10C6EFD990716FFC70F16D71B954756125AF</key>
+		<string>https://github.com/cangjie/JobAnyWhere.git</string>
+		<key>F6FAB2C1D6CFF85893BA4695435538FB2A20CBAA</key>
+		<string>https://github.com/cangjie/JobAnyWhere.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JobAnyWhere.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>090E10C6EFD990716FFC70F16D71B954756125AF</key>
+		<string>../..</string>
+		<key>F6FAB2C1D6CFF85893BA4695435538FB2A20CBAA</key>
+		<string>../..JobAnyWhere/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cangjie/JobAnyWhere.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>090E10C6EFD990716FFC70F16D71B954756125AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>090E10C6EFD990716FFC70F16D71B954756125AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JobAnyWhere</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F6FAB2C1D6CFF85893BA4695435538FB2A20CBAA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JobAnyWhere</string>
+		</dict>
+	</array>
+</dict>
+</plist>
