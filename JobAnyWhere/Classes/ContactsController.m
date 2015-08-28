@@ -75,6 +75,7 @@
     cell.headImage.image = [UIImage imageNamed:imagePath];
     //cell.headImage;
     
+    cell.contentLabel.text = @"[3条]答不上来杀头！";
     
     NSString *name = [rowDict objectForKey:@"name"];
     cell.nameLabel.text = name;

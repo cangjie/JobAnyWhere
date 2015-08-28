@@ -22,7 +22,7 @@
 		<key>090E10C6EFD990716FFC70F16D71B954756125AF</key>
 		<string>../..</string>
 		<key>F6FAB2C1D6CFF85893BA4695435538FB2A20CBAA</key>
-		<string>../..JobAnyWhere/</string>
+		<string>../..JobAnyWhere</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/cangjie/JobAnyWhere.git</string>
@@ -46,7 +46,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>F6FAB2C1D6CFF85893BA4695435538FB2A20CBAA</string>
 			<key>IDESourceControlWCCName</key>
-			<string>JobAnyWhere</string>
+			<string>JobAnyWhereJobAnyWhere</string>
 		</dict>
 	</array>
 </dict>
