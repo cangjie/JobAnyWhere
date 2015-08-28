@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="fak-89-1C4">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="eiK-lD-9JO">
     <dependencies>
         <deployment version="2048" identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
@@ -96,11 +96,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" rowHeight="71" id="sPZ-b4-MZK" customClass="ContactsCell">
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" rowHeight="71" id="sPZ-b4-MZK" customClass="ContactsCell">
                                 <rect key="frame" x="0.0" y="22" width="320" height="71"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="sPZ-b4-MZK" id="ZeN-cF-5wn">
-                                    <rect key="frame" x="0.0" y="0.0" width="320" height="70"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="287" height="70"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="Brs-nQ-aH3">
@@ -127,6 +127,7 @@
                                     <outlet property="contentLabel" destination="FQA-Wr-K4H" id="QUs-BU-JD5"/>
                                     <outlet property="headImage" destination="Brs-nQ-aH3" id="wYB-L7-fTB"/>
                                     <outlet property="nameLabel" destination="RkJ-MY-VPD" id="2MX-TI-shW"/>
+                                    <segue destination="fak-89-1C4" kind="custom" id="3kP-dV-GFw"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
@@ -173,6 +174,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
+                    <navigationItem key="navigationItem" id="upW-TV-s2b"/>
                     <connections>
                         <outlet property="bubbleTable" destination="P0f-h1-0Bl" id="Pqr-IV-6Ru"/>
                         <outlet property="textField" destination="L6P-Jr-gF9" id="T24-X3-pmH"/>
@@ -181,7 +183,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BW9-mg-J8G" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1114" y="-1217"/>
+            <point key="canvasLocation" x="734" y="-1125"/>
         </scene>
         <!--ViewSettings-->
         <scene sceneID="LMT-td-53e">
